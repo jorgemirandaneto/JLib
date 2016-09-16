@@ -1,4 +1,4 @@
-package br.pro.delfino.drogaria.util;
+package br.comjlib.util;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;

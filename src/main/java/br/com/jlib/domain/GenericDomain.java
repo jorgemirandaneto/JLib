@@ -1,4 +1,4 @@
-package br.jlib.domain;
+package br.com.jlib.domain;
 
 import java.io.Serializable;
 

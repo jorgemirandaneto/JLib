@@ -1,4 +1,4 @@
-package br.pro.delfino.drogaria.util;
+package br.comjlib.util;
 
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;

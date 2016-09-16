@@ -1,9 +1,9 @@
-package br.pro.delfino.drogaria.util;
+package br.com.jlib.util;
 
 import org.hibernate.Session;
 import org.junit.Test;
 
-import br.pro.delfino.drogaria.util.HibernateUtil;
+import br.comjlib.util.HibernateUtil;
 
 public class HibernateUtilTest {
 	@Test

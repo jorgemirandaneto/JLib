@@ -1,4 +1,4 @@
-package br.pro.delfino.drogaria.util;
+package br.comjlib.util;
 
 import javax.ws.rs.ApplicationPath;
 

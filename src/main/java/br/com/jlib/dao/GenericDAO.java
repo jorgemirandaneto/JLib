@@ -1,4 +1,4 @@
-package br.jlib.dao;
+package br.com.jlib.dao;
 
 
 import java.lang.reflect.ParameterizedType;
@@ -10,7 +10,7 @@ import org.hibernate.Transaction;
 import org.hibernate.criterion.Order;
 import org.hibernate.criterion.Restrictions;
 
-import br.pro.delfino.drogaria.util.HibernateUtil;
+import br.comjlib.util.HibernateUtil;
 
 public class GenericDAO<Entidade> {
 	private Class<Entidade> classe;
